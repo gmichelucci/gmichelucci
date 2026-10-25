@@ -33,7 +33,7 @@ Hey! I'm **Gabriel**, a passionate game developer and software builder crafting 
 
 ---
 
-### 🚀 Currently Building: [Space Tides](https://github.com/gmichelucci/space-tides)
+### 🚀 Currently Building: [Space Tides](https://github.com/gmichelucci/space-tides-releases)
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Active%20Alpha-00E5FF?style=flat-square" alt="Status" />
@@ -48,7 +48,7 @@ Hey! I'm **Gabriel**, a passionate game developer and software builder crafting 
 - 🎮 **Play in Browser**: [v0idgames.itch.io/space-tides](https://v0idgames.itch.io/space-tides)
 - 💻 **Desktop Client**: [Download Windows Launcher (Auto-updater)](https://github.com/gmichelucci/space-tides-releases/releases/latest)
 - 📱 **Mobile**: Android APK with custom tactical widescreen dock
-- 📚 **Deep Dive**: Check out the [Space Tides Wiki & Game Lore](https://github.com/gmichelucci/space-tides/wiki)
+- 📚 **Deep Dive**: Check out the [Space Tides Wiki & Documentation](https://github.com/gmichelucci/space-tides-releases/wiki)
 
 ---
 
