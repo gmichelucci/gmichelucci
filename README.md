@@ -43,7 +43,7 @@ Hey! I'm **Gabriel**, a passionate game developer and software builder crafting 
 
 <br/>
 
-> **Space Tides** is a tactical auto-battler and fleet builder set in the depths of an oscillating cosmos. Assemble fleets, optimize component synergies, deploy pilot implants, and command the tides of space warfare.
+> **Space Tides** is a tactical auto-battler and fleet builder set in a galaxy locked in war over an ancient cosmic secret. Command the colossal fleets of the **Solaris Dynasty**, the precision tech of the **Nexus Collective**, or the high-speed scrap ships of the **Outland Alliance** against the terrifying swarm of the **Ancient Queen**.
 
 - 🎮 **Play in Browser**: [v0idgames.itch.io/space-tides](https://v0idgames.itch.io/space-tides)
 - 💻 **Desktop Client**: [Download Windows Launcher (Auto-updater)](https://github.com/gmichelucci/space-tides-releases/releases/latest)
