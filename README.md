@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ GABRIEL MICHELUCCI ⚡
-### *Vibe Coder · Indie Game Dev · Founder at v0idgames*
+### *Vibe Coder · Indie Game Dev*
 
 <p align="center">
   <a href="https://instagram.com/g_michelucci">
@@ -16,14 +16,14 @@
 </p>
 
 ```
-  "Coding at the frequency of flow — turning raw ideas into cosmic realities at the speed of thought."
+  
 ```
 
 ---
 
 </div>
 
-### 🌌 About Me (The Vibe)
+### 🌌 About Me
 
 Hey! I'm **Gabriel**, a passionate game developer and software builder crafting rich digital experiences. I operate in pure **vibe coder** mode: high-velocity prototyping, deep focus on feel and aesthetics, and architecting robust, modular backends under the hood.
 
