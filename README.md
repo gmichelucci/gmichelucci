@@ -61,11 +61,7 @@ Whether I am developing complex deterministic simulation loops, designing Godot 
 
 
 
-**Software Engineer | Vibe Coder**
 
-- Continuously building and iterating on various private repositories and client projects.
-- Delivering end-to-end software solutions, from conceptualization and UI/UX design to robust backend architecture.
-- Developing custom management and operational software to streamline workflows for **@hellrose_studio** and other freelance clients.
 
 ---
 
