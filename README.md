@@ -48,8 +48,7 @@ Whether I am developing complex deterministic simulation loops, designing Godot 
   - **Platforms**: Playable in Browser, Desktop Client (Windows Launcher with auto-updater), and Mobile (Android APK with custom tactical widescreen dock).
   - **Focus**: High-speed mechanics, deterministic simulation loops, and rich lore featuring the Solaris Dynasty, Nexus Collective, and Outland Alliance.
 
-#### **Software Engineering & Open Source**
-
+#### **Software Engineering**
 **Creator & Maintainer**
 
 - **[V0id-OS](https://github.com/gmichelucci/V0id-OS)**: Sovereign Autonomous Multi-Studio Operating System.
@@ -60,7 +59,7 @@ Whether I am developing complex deterministic simulation loops, designing Godot 
   - **Tech Stack**: Python.
   - **Focus**: Process automation and advanced tooling for seamless operations.
 
-#### **Freelance & Private Repositories**
+
 
 **Software Engineer | Vibe Coder**
 
