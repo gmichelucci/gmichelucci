@@ -1,64 +1,78 @@
 <div align="center">
 
 # ⚡ GABRIEL MICHELUCCI ⚡
-### *Vibe Coder · Indie Game Dev*
+
+### *Software Engineer · Vibe Coder · Indie Game Dev · Entrepreneur*
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-michelucci-2b7a46343/">
+    <img src="https://img.shields.io/badge/LinkedIn-Gabriel_Michelucci-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://instagram.com/g_michelucci">
     <img src="https://img.shields.io/badge/Personal-@g__michelucci-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Personal Instagram" />
   </a>
-  <a href="https://instagram.com/v0idgames">
-    <img src="https://img.shields.io/badge/Studio-@v0idgames-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Studio Instagram" />
+  <a href="https://instagram.com/v0id_ev">
+    <img src="https://img.shields.io/badge/Dev-@v0id__ev-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Studio Instagram" />
   </a>
   <a href="https://v0idgames.itch.io">
     <img src="https://img.shields.io/badge/Itch.io-v0idgames-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io" />
   </a>
 </p>
 
-```
-  
-```
-
----
-
 </div>
 
-### 🌌 About Me
+---
 
-Hey! I'm **Gabriel**, a passionate game developer and software builder crafting rich digital experiences. I operate in pure **vibe coder** mode: high-velocity prototyping, deep focus on feel and aesthetics, and architecting robust, modular backends under the hood.
+### 💼 Professional Summary
 
-- 🛸 **Founder & Lead Developer** at **[v0idgames](https://instagram.com/v0idgames)**.
-- ⚡ **Currently Obsessed With**: Tactical auto-battlers, deterministic simulation loops, WebRTC peer signaling, and Godot 4 shaders.
-- 🛠️ **Philosophy**: Zero bloat, rapid iteration, and shipping games players genuinely enjoy.
+I am a multifaceted **Software Engineer**, **Freelancer**, and **Entrepreneur** with a passion for crafting rich digital experiences and robust architectures. Operating in pure **vibe coder** mode, I blend high-velocity prototyping with a deep focus on aesthetic and functional design.
+
+My professional journey spans across various domains:
+
+- 💻 **Freelance Software Engineer**: Architecting and delivering tailored software solutions for diverse clients, focusing on modularity, zero bloat, and rapid iteration.
+- 🛸 **Indie Game Developer**: Founder and Lead Developer at **[v0idgames](https://v0idgames.itch.io)**, where I design and build games that players genuinely enjoy, emphasizing tactical mechanics and deep simulation loops.
+- 🏢 **Entrepreneur**: Proud owner and operator of a **Women's Aesthetic Studio**, where I merge my passion for aesthetics, business management, and client experience.
+
+Whether I am developing complex deterministic simulation loops, designing Godot 4 shaders, or managing my aesthetic studio, I bring dedication, creativity, and a results-driven mindset to everything I do.
 
 ---
 
-### 🚀 Currently Building: [Space Tides](https://github.com/gmichelucci/space-tides-releases)
+### 🚀 Professional Experience & Projects
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Active%20Alpha-00E5FF?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/Engine-Godot%204.x-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Engine" />
-  <img src="https://img.shields.io/badge/Backend-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Backend" />
-</div>
+#### **Indie Game Development**
 
-<br/>
+**Founder & Lead Developer | v0idgames**
 
-> **Space Tides** is a tactical auto-battler and fleet builder set in a galaxy locked in war over an ancient cosmic secret. Command the colossal fleets of the **Solaris Dynasty**, the precision tech of the **Nexus Collective**, or the high-speed scrap ships of the **Outland Alliance** against the terrifying swarm of the **Ancient Queen**.
+- **[Space Tides](https://github.com/gmichelucci/space-tides-releases)** *(Active Alpha)*: A tactical auto-battler and fleet builder.
+  - **Tech Stack**: Godot 4.x, GDScript, C#, Supabase (Auth, Postgres, Cloud Saves), WebRTC Signaling.
+  - **Platforms**: Playable in Browser, Desktop Client (Windows Launcher with auto-updater), and Mobile (Android APK with custom tactical widescreen dock).
+  - **Focus**: High-speed mechanics, deterministic simulation loops, and rich lore featuring the Solaris Dynasty, Nexus Collective, and Outland Alliance.
 
-- 🎮 **Play in Browser**: [v0idgames.itch.io/space-tides](https://v0idgames.itch.io/space-tides)
-- 💻 **Desktop Client**: [Download Windows Launcher (Auto-updater)](https://github.com/gmichelucci/space-tides-releases/releases/latest)
-- 📱 **Mobile**: Android APK with custom tactical widescreen dock
-- 📚 **Deep Dive**: Check out the [Space Tides Wiki & Documentation](https://github.com/gmichelucci/space-tides-releases/wiki)
+#### **Open Source & Tools Engineering**
+
+**Creator & Maintainer**
+
+- **[rea](https://github.com/gmichelucci/rea)**: Reverse engineer anything with agents, from app behavior down to native binaries.
+  - **Tech Stack**: AI Agents, Python, Shell.
+  - **Focus**: Advanced automation, binary analysis, and behavioral reverse engineering using LLM-powered agents.
+
+#### **Freelance & Private Repositories**
+
+**Software Engineer | Vibe Coder**
+
+- Continuously building and iterating on various private repositories and client projects.
+- Delivering end-to-end software solutions, from conceptualization and UI/UX design to robust backend architecture.
+- Developing custom management and operational software to streamline workflows for my Women's Aesthetic Studio and other freelance clients.
 
 ---
 
-### 🛰️ The Tech Arsenal
+### 🛰️ Technical Expertise
 
 ```yaml
-Game Engines:    Godot Engine 4 (GDScript, Shaders, Custom Resources)
-Languages:       GDScript, C#, Python, TypeScript, Shell / PowerShell
-Backend & Cloud: Supabase (Auth, Postgres, Cloud Saves), WebRTC Signaling
-Tools & Flow:    Git, GitHub Actions CI/CD, Butler (Itch.io), VS Code
+Game Engineering:   Godot Engine 4 (GDScript, Shaders, Custom Resources)
+Languages:          GDScript, C#, Python, TypeScript, Shell / PowerShell
+Backend & Cloud:    Supabase (Auth, Postgres, Cloud Saves), WebRTC Signaling
+Tools & Workflow:   Git, GitHub Actions CI/CD, VS Code, Butler (Itch.io)
 ```
 
 <p align="center">
@@ -68,12 +82,13 @@ Tools & Flow:    Git, GitHub Actions CI/CD, Butler (Itch.io), VS Code
   <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 ---
 
-### 📊 Radar & Activity
+### 📊 GitHub Activity & Radar
 
 <div align="center">
 
@@ -90,10 +105,13 @@ Tools & Flow:    Git, GitHub Actions CI/CD, Butler (Itch.io), VS Code
 
 ### 📡 Let's Connect
 
-* 💬 **Personal Instagram**: [@g_michelucci](https://instagram.com/g_michelucci)
-* 🛸 **Studio Instagram**: [@v0idgames](https://instagram.com/v0idgames)
-* 🎮 **Itch.io Portal**: [v0idgames.itch.io](https://v0idgames.itch.io)
-* ✉️ **Contact**: `gf.michelucci@gmail.com`
+Feel free to reach out for collaborations, freelance opportunities, or just to chat about tech, games, and aesthetics!
+
+- 💼 **LinkedIn**: [Gabriel Michelucci](https://www.linkedin.com/in/gabriel-michelucci-2b7a46343/)
+- 📸 **Personal Instagram**: [@g_michelucci](https://instagram.com/g_michelucci)
+- 📸 **Dev Instagram**: [@v0id_ev](https://instagram.com/v0id_ev)
+- 🎮 **Itch.io Portal**: [v0idgames.itch.io](https://v0idgames.itch.io)
+- ✉️ **Contact**: `gf.michelucci@gmail.com`
 
 <div align="center">
   <sub>⚡ Designed with cosmic vibes & clean code. Let's build the future. ⚡</sub>
