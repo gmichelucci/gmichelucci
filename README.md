@@ -31,7 +31,7 @@ My professional journey spans across various domains:
 
 - 💻 **Freelance Software Engineer**: Architecting and delivering tailored software solutions for diverse clients, focusing on modularity, zero bloat, and rapid iteration.
 - 🛸 **Indie Game Developer**: Founder and Lead Developer at **[v0idgames](https://v0idgames.itch.io)**, where I design and build games that players genuinely enjoy, emphasizing tactical mechanics and deep simulation loops.
-- 🏢 **Entrepreneur**: Proud owner and operator of a **Women's Aesthetic Studio**, where I merge my passion for aesthetics, business management, and client experience.
+- 🏢 **Entrepreneur**: Proud owner and operator of **[@hellrose_studio](https://instagram.com/hellrose_studio)**, where I merge my passion for aesthetics, business management, and client experience.
 
 Whether I am developing complex deterministic simulation loops, designing Godot 4 shaders, or managing my aesthetic studio, I bring dedication, creativity, and a results-driven mindset to everything I do.
 
@@ -48,13 +48,17 @@ Whether I am developing complex deterministic simulation loops, designing Godot 
   - **Platforms**: Playable in Browser, Desktop Client (Windows Launcher with auto-updater), and Mobile (Android APK with custom tactical widescreen dock).
   - **Focus**: High-speed mechanics, deterministic simulation loops, and rich lore featuring the Solaris Dynasty, Nexus Collective, and Outland Alliance.
 
-#### **Open Source & Tools Engineering**
+#### **Software Engineering & Open Source**
 
 **Creator & Maintainer**
 
-- **[rea](https://github.com/gmichelucci/rea)**: Reverse engineer anything with agents, from app behavior down to native binaries.
-  - **Tech Stack**: AI Agents, Python, Shell.
-  - **Focus**: Advanced automation, binary analysis, and behavioral reverse engineering using LLM-powered agents.
+- **[V0id-OS](https://github.com/gmichelucci/V0id-OS)**: Sovereign Autonomous Multi-Studio Operating System.
+  - **Tech Stack**: Next.js, SQLite, HTML, AI Orchestration.
+  - **Focus**: Autonomous agents, self-healing systems, and advanced AI orchestration.
+
+- **[Gabisa-V0id-Seller](https://github.com/gmichelucci/Gabisa-V0id-Seller)**: Advanced seller and operational tools.
+  - **Tech Stack**: Python.
+  - **Focus**: Process automation and advanced tooling for seamless operations.
 
 #### **Freelance & Private Repositories**
 
@@ -62,7 +66,7 @@ Whether I am developing complex deterministic simulation loops, designing Godot 
 
 - Continuously building and iterating on various private repositories and client projects.
 - Delivering end-to-end software solutions, from conceptualization and UI/UX design to robust backend architecture.
-- Developing custom management and operational software to streamline workflows for my Women's Aesthetic Studio and other freelance clients.
+- Developing custom management and operational software to streamline workflows for **@hellrose_studio** and other freelance clients.
 
 ---
 
@@ -70,12 +74,13 @@ Whether I am developing complex deterministic simulation loops, designing Godot 
 
 ```yaml
 Game Engineering:   Godot Engine 4 (GDScript, Shaders, Custom Resources)
-Languages:          GDScript, C#, Python, TypeScript, Shell / PowerShell
-Backend & Cloud:    Supabase (Auth, Postgres, Cloud Saves), WebRTC Signaling
-Tools & Workflow:   Git, GitHub Actions CI/CD, VS Code, Butler (Itch.io)
+Languages:          GDScript, C#, Python, TypeScript, HTML, Shell / PowerShell
+Backend & Cloud:    Supabase (Auth, Postgres, Cloud Saves), SQLite, WebRTC Signaling
+Tools & Workflow:   Git, GitHub Actions CI/CD, VS Code, Next.js, Butler (Itch.io)
 ```
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Godot%204-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
   <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
